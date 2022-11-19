@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stupnikjs
 - 
-- 🌱 I’m currently learning node js, and i would like to increase my backend skills so i can get a job.
-
+- Im a Javascript Developer, Having some knowledge about React and Express.js
+    Please leave me some comment or advice. 
 
 <!---
 Stupnikjs/Stupnikjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
