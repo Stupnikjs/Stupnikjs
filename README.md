@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Stupnikjs
 - 
-- Im Studing DataEnineering 
-- Please leave me some comment or advice. 
+- Im trying to learn software engineering. 
 
 <!---
 Stupnikjs/Stupnikjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
