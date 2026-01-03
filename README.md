@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stupnikjs
-- 0x6750A7CbBd11B9C64edF8cB4CA2e4232C1f3307A
+- 0xaF8EAb4dc1CA3DFc2904D0C4f19B4fb0B93a2771
 - Im trying to learn software engineering. 
 
 <!---
