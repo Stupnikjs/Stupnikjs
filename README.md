@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stupnikjs
-- 0xaF8EAb4dc1CA3DFc2904D0C4f19B4fb0B93a2771
-- Im trying to learn software engineering. 
+- Im trying to learn EVM and solidity. 
+
 
 <!---
 Stupnikjs/Stupnikjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
