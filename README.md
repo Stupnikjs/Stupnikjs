@@ -39,6 +39,6 @@ Analyses techniques et résolutions de challenges CTF (Ethernaut, Damn Vulnerabl
 ### 🤝 Let's Connect
 - **X / Twitter:** [@NicolasBou73233](https://twitter.com/NicolasBou73233)
 - **Discord:** `Stupnikk`
-- **Email:** `stupnikk@intigrit.me`
+- **Email:** `pascalboudier37@gmail.com`
 
 > "Security is not a product, but a process. In Web3, the infrastructure is the first line of defense."
