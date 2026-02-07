@@ -31,8 +31,6 @@ Une architecture "Production-Ready" pour les Incentivized Testnets.
 - **Automation:** Déploiement via Terraform & scripts de bootstrap automatisés.
 - **Resilience:** Alerte automatique de saturation disque via CloudWatch/SNS.
 
-#### ✍️ [Web3-Security-Writeups](https://github.com/votre-username/writeups)
-Analyses techniques et résolutions de challenges CTF (Ethernaut, Damn Vulnerable DeFi) avec un focus sur la sécurité des systèmes.
 
 ---
 
