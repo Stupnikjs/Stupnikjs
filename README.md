@@ -1,32 +1,44 @@
-# 👋 Salut, I'm Stupnikk
+# 🛡️ Stupnikk | Web3 Cloud Infrastructure & Security 🇫🇷
 
-**Web3 Security Researcher | Python & Go Developer**
-Currently based in France 🇫🇷
+**Cloud Security Engineer & Go/Python Developer** specializing in resilient Web3 infrastructure. I design, automate, and secure the backbone of decentralized networks.
 
-I am a security-focused developer transitioning from traditional web development into the world of Smart Contract Auditing and EVM security. I enjoy deconstructing complex systems to understand how they fail—and how to make them unshakeable.
+---
+
+### 🚀 The Mission
+Transitioning from traditional web development to **Web3 DevSecOps**. My goal is to bridge the gap between complex blockchain protocols and high-availability cloud architecture. I don't just deploy nodes; I build unshakeable environments to secure the future of DeFi.
 
 ---
 
 ### 🔍 Focus Areas
-* **Smart Contract Security:** Deep diving into Solidity, Foundry, and common vulnerability patterns (Reentrancy, Logic errors, Gas griefing).
-* **EVM Internals:** Exploring how the Ethereum Virtual Machine handles state and opcodes.
+- **Web3 Infrastructure (IaC):** Architecting automated, secure deployments for blockchain nodes (Monad, Berachain, Babylon) using **Terraform** & **AWS/GCP**.
+- **Cloud Security:** Hardening cloud environments, implementing KMS for key management, and designing multi-layered VPC architectures.
+- **Protocol Research:** Deconstructing EVM-compatible networks to optimize node performance and reliability.
 
+---
 
-### 🛠 Tech Stack
-* **Languages:** Solidity, Go, Python.
-* **Frameworks:** Foundry
-* **Security Tools:** Slither.
+### 🛠️ Tech Stack
+- **Languages:** `Go` (High-performance tools), `Python` (Automation & Scripts), `Solidity` (Security context).
+- **Cloud & DevOps:** `AWS`, `GCP`, `Terraform`, `Docker`, `Kubernetes`, `LocalStack`.
+- **Security & Monitoring:** `CloudWatch`, `Prometheus/Grafana`, `IAM Hardening`, `Slither` (Static Analysis).
 
 ---
 
 ### 🏆 Proof of Work
-* **CTFs:** Actively solving [Ethernaut](https://ethernaut.openzeppelin.com/) and [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/).
-* **Audits:** (Coming Soon) My goal is to participate in my first Code4rena / Sherlock contest by Q3 2026.
-* **Research:** Check out my `/writeups` folder for detailed breakdowns of security challenges I've solved.
+
+#### 🏗️ [Web3-Node-Deployer-IaC](https://github.com/votre-username/votre-repo)
+Une architecture "Production-Ready" pour les Incentivized Testnets.
+- **Infrastructure:** VPC isolé, stockage EBS gp3 chiffré, et accès SSH sécurisé.
+- **Automation:** Déploiement via Terraform & scripts de bootstrap automatisés.
+- **Resilience:** Alerte automatique de saturation disque via CloudWatch/SNS.
+
+#### ✍️ [Web3-Security-Writeups](https://github.com/votre-username/writeups)
+Analyses techniques et résolutions de challenges CTF (Ethernaut, Damn Vulnerable DeFi) avec un focus sur la sécurité des systèmes.
 
 ---
 
 ### 🤝 Let's Connect
-* **Twitter/X:** @NicolasBou73233 * * **Discord:** `Stupnikk`
+- **X / Twitter:** [@NicolasBou73233](https://twitter.com/NicolasBou73233)
+- **Discord:** `Stupnikk`
+- **Email:** `stupnikk@intigrit.me`
 
-*"The goal isn't just to find bugs; it's to secure the future of decentralized finance."*
+> "Security is not a product, but a process. In Web3, the infrastructure is the first line of defense."
